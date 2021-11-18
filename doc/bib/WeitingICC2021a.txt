@@ -1,0 +1,8 @@
+@inproceedings{zhang2021Spectrum,
+	title={Spectrum and computing resource management for federated learning in distributed industrial IoT},
+	author={Zhang, Weiting and Yang, Dong and Wu, Wen and Peng, Haixia and Zhang, Ning and Zhang, Hongke and Shen, Xuemin},
+	booktitle={Proc. IEEE ICC Workshop},
+	pages={},
+	year={2021},
+	organization={}
+}

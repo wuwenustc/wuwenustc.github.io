@@ -1,0 +1,10 @@
+@article{wu2019fast,
+	title={Fast mmwave Beam Alignment via Correlated Bandit Learning},
+	author={Wu, Wen and Cheng, Nan and Zhang, Ning and Yang, Peng and Zhuang, Weihua and Shen, Xuemin},
+	journal={IEEE Trans. Wireless Commun.},
+	volume={18},
+	number={12},
+	pages={5894--5908},
+	year={Dec. 2019},
+	publisher={IEEE}
+}

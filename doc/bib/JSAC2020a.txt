@@ -1,0 +1,9 @@
+@article{wu2020dynamic,
+	title={Dynamic {RAN} Slicing for Service-Oriented Vehicular Networks via Constrained Learning},
+	author={Wu, Wen and Chen, Nan and Zhou, Conghao and Li, Mushu and Shen, Xuemin and Zhuang, Weihua and Li, Xu},
+	journal={IEEE J. Sel. Areas Commun.},
+	volume={39},
+	number={7},
+	pages={2076--2089},
+	year={Jul. 2021}
+}

@@ -1,0 +1,10 @@
+@article{wu2020accuracy,
+	title={Accuracy-Guaranteed Collaborative {DNN} Inference in Industrial {IoT} via Deep Reinforcement Learning},
+	author={Wu, Wen and Yang, Peng and Zhang, Weiting and Zhou, Conghao and Shen, Xuemin},
+	journal={IEEE Trans. Ind. Informat.},
+	volume={17},
+	number={7},
+	pages={4988--4998},
+	year={July 2021},
+	publisher={IEEE}
+}

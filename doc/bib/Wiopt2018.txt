@@ -1,0 +1,8 @@
+@inproceedings{wu2017Wiopt,
+	title={Enhance the Edge with Beamforming: {Performance} Analysis of Beamforming-Enabled {WLAN}},
+	author={Wu, Wen and Shen, Qinghua and Aldubaikhy, Khalid and Cheng, Nan and Zhang, Ning and Shen, Xuemin},
+	booktitle={Proc. IEEE WiOpt},
+	pages={},
+	year={2018},
+	organization={}
+}

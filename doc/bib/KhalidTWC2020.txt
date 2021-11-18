@@ -1,0 +1,10 @@
+@article{aldubaikhy2020low,
+  title={Low-Complexity User Selection Algorithms for Multiuser Transmissions in mmWave {WLANs}},
+  author={Aldubaikhy, Khalid and Wu, Wen and Ye, Qiang and Shen, Xuemin},
+  journal={IEEE Trans. Wireless Commun.},
+  volume={19},
+  number={4},
+  pages={2397--2410},
+  year={Apr. 2020},
+  publisher={IEEE}
+}

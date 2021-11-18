@@ -1,0 +1,10 @@
+@article{yang2019edge,
+	title={Edge Coordinated Query Configuration for Low-Latency and Accurate Video Analytics},
+	author={Yang, Peng and Lyu, Feng and Wu, Wen and Zhang, Ning and Yu, Li and Shen, Xuemin},
+	journal={IEEE Trans. Ind. Informat.},
+	volume={16},
+	number={7},
+	pages={4855--4864},
+	year={Jul. 2020},
+	publisher={IEEE}
+}

@@ -1,0 +1,10 @@
+@article{wu2019beef,
+	title={Beef up {mmWave} Dense Cellular Networks with {D2D}-Assisted Cooperative Edge Caching},
+	author={Wu, Wen and Zhang, Ning and Cheng, Nan and Tang, Yujie and Aldubaikhy, Khalid and Shen, Xuemin},
+	journal={IEEE Trans. Veh. Technol.},
+	volume={68},
+	number={4},
+	pages={3890--3904},
+	year={Apr. 2019},
+	publisher={IEEE}
+}

@@ -1,0 +1,7 @@
+@article{zhou2020towards,
+	title={Deep Reinforcement Learning for Delay-Oriented {IoT} Task Scheduling in Space-Air-Ground Integrated Network},
+	author={Zhou, Conghao and Wu, Wen and He, Hongli and Yang, Peng and Lyu, Feng and Cheng, Nan and Shen, Xuemin},
+	journal={IEEE Trans. Wireless Commun.},
+	year={DOI: 10.1109/TWC.2020.3029143, 2020},
+	publisher={IEEE}
+}

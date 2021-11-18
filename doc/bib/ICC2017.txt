@@ -1,0 +1,8 @@
+@inproceedings{wu2017performance,
+	title={Performance analysis of {IEEE} 802.11.ad downlink hybrid beamforming},
+	author={Wu, Wen and Shen, Qinghua and Wang, Miao and Shen, Xuemin},
+	booktitle={ Proc. IEEE ICC},
+	pages={},
+	year={2017},
+	organization={}
+}

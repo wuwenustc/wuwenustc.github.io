@@ -1,0 +1,10 @@
+@article{aldubaikhy2020mmwave,
+  title={mmwave {IEEE} 802.11ay for {5G} fixed wireless access},
+  author={Aldubaikhy, Khalid and Wu, Wen and Zhang, Ning and Cheng, Nan and Shen, Xuemin Sherman},
+  journal={IEEE Wireless Commun.},
+  volume={27},
+  number={2},
+  pages={88--95},
+  year={Apr. 2020},
+  publisher={IEEE}
+}

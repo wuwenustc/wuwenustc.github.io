@@ -1,0 +1,8 @@
+@inproceedings{ma2021multi,
+	title={Multi-Task Learning Aided Joint Constellation Design and Multiuser Detection for GF-NOMA},
+	author={Ma, Zhe and Wu, Wen and Gao, Feifei and Shen, Xuemin},
+	booktitle={Proc. IEEE ICC},
+	pages={},
+	year={2021},
+	organization={}
+}

@@ -1,0 +1,10 @@
+@article{tang2019delay,
+	title={Delay-minimization routing for heterogeneous {VANETs} with machine learning based mobility prediction},
+	author={Tang, Yujie and Cheng, Nan and Wu, Wen and Wang, Miao and Dai, Yanpeng and Shen, Xuemin},
+	journal={IEEE Trans. Veh. Technol.},
+	volume={68},
+	number={4},
+	pages={3967--3979},
+	year={Apr. 2019},
+	publisher={IEEE}
+}

@@ -1,0 +1,10 @@
+@article{wu2020performance,
+title={Performance Analysis and Enhancement of Beamforming Training in 802.11ad},
+author={Wu, Wen and Cheng, Nan and Zhang, Ning and Yang, Peng and Aldubaikhy, Khalid and Shen, Xuemin},
+journal={IEEE Trans. Veh. Technol.},
+volume={69},
+number={5},
+pages={5293--5306},
+year={May 2020},
+publisher={IEEE}
+}
