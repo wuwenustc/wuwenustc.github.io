@@ -1,0 +1,9 @@
+@article{zhang2021optimizing,
+  title={Optimizing Federated Learning in Distributed Industrial {IoT}: A Multi-Agent Approach},
+  author={Zhang, Weiting and Yang, Dong and Wu, Wen and Peng, Haixia and Zhang, Ning and Zhang, Hongke and Shen, Xuemin},
+	journal={IEEE J. Sel. Areas Commun.},
+	volume={39},
+	number={12},
+	pages={3688-3703},
+	year={Dec. 2021}
+}

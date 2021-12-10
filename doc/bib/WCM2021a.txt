@@ -1,6 +1,6 @@
 @article{wu2021ai,
-  title={AI-Native Network Slicing for {6G} Networks},
-  author={Wu, Wen and Zhou, Conghao and Li, Mushu and Wu, Huaqing and Zhou, Haibo and Zhang, Ning and Zhuang, Weihua and others},
-  journal={arXiv preprint arXiv:2105.08576},
-  year={2021}
+	title={{AI}-Native Network Slicing for {6G} Networks},
+	author={Wu, Wen and Zhou, Conghao and Li, Mushu and Wu, Huaqing and Zhou, Haibo and Zhang, Ning and Xuemin, Shen and Zhuang, Weihua},
+	journal={IEEE Wireless Commun.},
+	year={to appear, 2021}
 }
