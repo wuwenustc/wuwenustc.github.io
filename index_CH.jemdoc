@@ -1,0 +1,224 @@
+# jemdoc: {pyang.html}, nofooter
+= 吴稳（[index.html English Homepage]）
+
+~~~
+{}{img_left}{./img/Wen_Wu.jpg}{photo}{120px}{150px}{}
+IEEE高级会员  \n
+副研究员, [https://www.pcl.ac.cn/ 鹏城实验室]\n
+地址：广东省深圳市兴科1街2号，B栋2213室 \n
+#Office: EIT 4149, [http://www.wnlo.cn WNLO] \n
+邮箱: wuw02@pcl.ac.cn, w77wu@uwaterloo.ca \n
+[https://scholar.google.ca/citations?user=TA8_qpgAAAAJ&hl=en 谷歌学术] (1000+引用, h-index: 16) \n
+[https://www.researchgate.net/profile/Wen-Wu-8 ResearchGate], [doc/CV_Wen_Wu_UW.pdf 学术简历]  \n
+~~~
+
+~~~
+/{{<font color=red>}}博士生招生{{</font>}}/: 工作室招收招收博士生、访问博士生，研究方向包括：网络智能、网络优化、网络虚拟化、网络安全等。感兴趣的同学请将简历投递到我邮箱。 #\n
+
+#/{{<font color=red>}} 2022年鹏城实验室和南方科技大学联培博士生专项计划{{</font>}}/: 研究方向包括6G网络、全网虚拟化、泛在网络智能，感兴趣的学生请把简历发给我和[https://faculty.sustech.edu.cn/zhangj4/ 张进教授]。{{<font color=red>}} 截止时间：5月5日 {{</font>}}。\[[http://yzw.pcl.edu.cn/yzs_new/zsxxxq/index?id=fe04d9dedeab40f88679c58e6aa2b6d3&xxlm=03 招生简章]]\n
+
+#/{{<font color=red>}} 2022年鹏城实验室和中山大学联培博士生专项计划{{</font>}}/: 研究方向包括6G网络、全网虚拟化、泛在网络智能，感兴趣的学生请把简历发给我和[https://cse.sysu.edu.cn/content/5224  陈林教授]。{{<font color=red>}}截止时间：5月5日{{</font>}}。\[[http://yzw.pcl.edu.cn/yzs_new/zsxxxq/index?id=5cd391f94f134a729d4882fa1259a779&xxlm=03 招生简章]]
+
+~~~
+
+~~~
+/{{<font color=red>}} 研究人员招聘 {{</font>}}/: 工作室常年招收招优秀博士后、研究员序列科研人员、工程师序列科研人员，研究方向包括：网络智能、网络优化、网络虚拟化、网络安全等。感兴趣的请将简历投递到我邮箱。 \[[https://hr.pcl.ac.cn/wt/pengchenglab/web/index/webPositionN300!getOnePosition?postId=219702&recruitType=2&brandCode=1&columnId=2&importPost=0 招聘链接]] \[[doc/Job_recruiting.pdf 招聘信息]]
+~~~
+
+
+
+==  个人简介
+吴稳，男，江西南昌人。2012年6月毕业于华南理工大学信息工程专业，获工学学士学位。2015年6月毕业于中国科学技术大学通信与信息系统专业，获工学硕士学位，导师卫国教授。2019年8月毕业于加拿大滑铁卢大学电子与计算机工程系宽带通信实验室，获博士学位，导师 Xuemin (Sherman) Shen教授（加拿大三院院士）。\n
+
+主要研究方向包括智能网络、网络虚拟化、车联网。以技术骨干身份参与了 Xuemin (Sherman) Shen教授主持的加拿大华为研究中心和加拿大基金委合作基金2项，以海外合作学者身份参研了北京交通大学高德云教授主持国家重点研发计划（战略性国际合作重点专项）1项。在相关领域发表高质量SCI或EI收录论文50余篇，其中IEEE Transaction系列会刊长文22篇，包括IEEE JSAC, IEEE TWC, IEEE TII, IEEE TVT等国际权威SCI期刊，以及IEEE ICC, IEEE Globecom等国际顶级会议；另由施普林格出版社出版的英文专著1部，英文学术专著章节3部，申请美国专利1项。谷歌学术累计引用1,000余次，h-index指数为16。入选鹏城实验室首批特聘岗位、1篇论文入选ESI同领域前千分之一热点论文、1篇论文入选ESI同领域前百分之一高被引论文、6篇论文入选IEEE JSAC等最受欢迎论文、IEEE OJVT和IEEE COMST主编邀稿论文各1篇；担任国际SCI期刊《Peer-to-Peer Networking and Applications》编辑、《Hindawi Wireless Communications and Mobile Computing》首席客座编辑、《China Communications》客座编辑；担任国际会议IEEE INFOCOM'22 Workshop TPC Chair、IEEE IPCCC'21 Workshop Chair、IEEE HPCC'21 Workshop TPC Chair、EAI CollaborateCom'21 Track Chair;曾担任 IEEE ICC'21, IEEE GLOBECOM21 等多个国际会议程序委员会成员，及IEEE JSAC，IEEE/ACM TON，IEEE TMC, IEEE TCOM, IEEE TWC, IEEE TII, IEEE TVT等20多个权威SCI期刊审稿人。\n
+
+
+
+
+== 教育经历
+- 2015.9-2019.8\n
+加拿大滑铁卢大学, 电子工程与计算机系, 宽带通信研究实验室（[https://uwaterloo.ca/broadband-communications-research-lab/ BBCR Lab]）, 博士 \n 
+导师: [http://bbcr.uwaterloo.ca/~xshen/ Xuemin (Sherman) Shen]教授 \n
+毕业论文: [doc/Wen_Wu_thesis.pdf Design and Analysis of Beamforming in mmWave Networks]
+
+- 2012.9-2015.6 \n
+中国科学技术大学，通信与信息系统，硕士\n
+导师: [http://eeis.ustc.edu.cn/2010/0825/c2648a19475/page.htm 卫国]教授
+
+- 2008.9-2012.6 \n
+华南理工大学，信息工程，学士
+
+
+== 工作经历
+-  2021.11-至今 \n
+鹏城实验室, 数学与理论部, 副研究员 \n
+智能网络院士工作室
+
+-  2019.10-2021.8 \n
+加拿大滑铁卢大学, 电子工程与计算机系, 博士后\n
+导师：Xuemin (Sherman) Shen教授
+
+
+
+== 研究兴趣 
+- 全网虚拟化: 网络数字孪生，网络切片
+- 泛在网络智能: AI赋能网络（AI for networking），网络赋能AI （Networking for AI）
+
+== 社会兼职
+
+
+
+=== 期刊编委
+
+- 2022.2-至今，/Springer Peer-to-Peer Networking and Applications/, 编委
+- 2021.11-至今, /Hindawi Wireless Communications and Mobile Computing/, special issue on “AI-Empowered Resource Orchestration for QoS Provisioning in 6G”,  首席客座编委 \[[https://www.hindawi.com/journals/wcmc/si/712732/   Call for Papers]]
+-  2021.5-至今, /China Communications/, special issue on "IoT Intelligence Empowered by End-Edge-Cloud Orchestration”, 客座编委 \[[https://mp.weixin.qq.com/s/7GuAwjDyp-YxuUJvykWVkA  Call for Papers ]]
+
+- 2022.1-至今，/Frontiers in Internet of Things/, Special Section on IoT Services and Applications, 编委会成员
+
+=== 会议组织
+-  2021.11-至今, /IEEE INFOCOM/ Workshop on "Pervasive Network Intelligence for 6G Networks (PerAI-6G)", Workshop TPC Chair \[[https://infocom2022.ieee-infocom.org/pervasive-network-intelligence-6g-networks-perai-6g Call for Papers]]
+
+- 2021.6-2021.11，/IEEE HPCC/ Workshop on “Distributed Intelligence for Future High Performance Unmanned Mobile Systems (DIFUS)”, Workshop Co-Chair
+#
+- 2021.4-2021.11，/EAI CollaborateCom/ Track on “Internet of Things”, Track Co-Chair
+#
+- 2021.4-2021.11，/IEEE IPCCC/ Workshop on “Edge Intelligence for 6G Networks (EI)”, Workshop Chair
+
+
+=== 会议程序委员会成员
+- IEEE International Conference on Communications (ICC), 2022 
+- IEEE Vehicular Technology Conference Fall (VTC-Fall), 2020
+- IEEE International Conference on Computing, Networking and Communications (ICNC), 2019
+- IEEE International Conference on Wireless Communications and Signal Processing (WCSP), 2019
+- IEEE Vehicular Technology Conference Fall Workshop, 2022
+
+=== 分会主席
+- IEEE VTC-Fall 2017
+
+=== 期刊/会议审稿人
+- IEEE Communications Magazine
+- IEEE Wireless Communications
+- IEEE Network
+- ACM/IEEE Transactions on Networking 
+- IEEE Journal on Selected Areas in Communications 
+- IEEE Transactions on Mobile Computing
+- IEEE Transactions on Communications 
+- IEEE Internet of Things Journal
+- IEEE Transactions on Vehicular Technology
+- IEEE Transactions on Industrial Informatics
+- IEEE Transactions on Cognitive Communications and Networking
+- IEEE Communication Letters
+- IEEE Wireless Communications Letters
+- IEEE Access
+- IET Communications
+- Wireless Networks
+- International Journal of Distributed Sensor Networks
+#-- Peer-to-Peer Networking and Applications
+#-- Journal of Communications and Information Networks
+- IEEE Global Communications Conference (GLOBECOM), 2020
+- IEEE Vehicular Technology Conference (VTC), Fall'20, Spring'20
+- IEEE International Conference on Computing, Networking and Communications (ICNC), 2019
+- International Conference on Wireless Communications and Signal Processing (WCSP), 2019
+
+
+== 学术成果
+=== 预印本
+. \[Preprint\]  *W. Wu*,  M. Li, K. Qu, C. Zhou, X. Shen, W. Zhuang, X. Li, and  W. Shi, ``[doc/journals/SL_paper.pdf Split Learning over Wireless Networks: Parallel Design and Resource Management]," submitted to /IEEE Journal on Selected Areas in Communications/, 2022.	
+#
+. \[Preprint\] X. Huang, C. Zhou, *W. Wu*, M. Li, H. Wu, and X. Shen, "[doc/conference/Xinyu_DT_Globecom.pdf Personalized QoE Enhancement for Adaptive Video Streaming: A Digital Twin-Assisted Scheme]," submitted to /Proc. IEEE GLOBECOM/, Rio de Janeiro, Brazil, 2022. 
+
+
+=== 英文学术专著
+
+. P. Yang, *W. Wu*, N. Zhang, and X. Shen, "Millimeter-Wave Networks: Beamforming Design and Performance Analysis", Springer Verlag, 2021 (ISBN-10: 3030886298, ISBN-13: 9783030886295), 169 pages \[[https://www.amazon.ca/Millimeter-Wave-Networks-Beamforming-Performance-Analysis/dp/3030886298/ref=sr_1_3?dchild=1&qid=1634928815&refinements=p_27%3AXuemin+Shen&s=books&sr=1-3 Amazon Link]].
+#
+. *W. Wu*, Y. Tang, P. Yang, W. Zhang, and N. Zhang, "Collaborative Deep Neural Network Inference via Mobile Edge Computing", /Broadband Communications, Computing, and Control for Ubiquitous Intelligence/, Springer Book Series on Wireless Networks, to appear, 2021.
+#
+. Q. Ye and *W. Wu*, "Network Slicing for 5G Networks and Beyond", /Broadband Communications, Computing, and Control for Ubiquitous Intelligence/, Springer Book Series on Wireless Networks, to appear, 2021.
+#
+. Y. Tang and *W. Wu*, "Routing Algorithms for Heterogeneous Vehicular Networks", /Broadband Communications, Computing, and Control for Ubiquitous Intelligence/, Springer Book Series on Wireless Networks, to appear, 2021.
+
+
+=== 美国专利
+. X. Shen, *W. Wu*, M. Li, K. Qu, C. Zhou, W. Zhuang, and X. Li, "Systems and Methods for Cluster-Based Parallel Split Learning," United States, Patent Ref: 92011852PCT01, 2022. Patent Status: Pending. 
+
+=== 期刊论文
+
+. \[COMST\] X. Shen, J. Gao, *W. Wu*,  M. Li, C. Zhou, and W. Zhuang, "[doc/journals/COMST2021.pdf Holistic Network Virtualization and Pervasive Network Intelligence for 6G]," /IEEE Communications Surveys and Tutorials/, vol. 24, no. 1, pp. 1-30, 1st. Quart. 2022. ({{<font color=red><b>}}主编邀稿论文{{</b></font>}}) \[[doc/bib/COMST2021.txt bib]] 
+#
+. \[OJVT\] X. Shen, J. Gao, *W. Wu*, K. Lyu, M. Li, W. Zhuang, X. Li, and J. Rao, "[doc/journals/OJVT2020a.pdf AI-assisted Network-slicing based Next-generation Wireless Networks]," /IEEE Open Journal of Vehicular Technology/, vol. 1, no. 1, pp. 45-66, Jan. 2020. ({{<font color=red><b>}}主编邀稿论文{{</b></font>}}) \[[doc/bib/OJVT2020.txt bib]] 
+#
+
+. \[WCM\] *W. Wu*, C. Zhou, M. Li, H. Wu, H. Zhou, N. Zhang, X. Shen, and W. Zhuang, "[doc/journals/WC2021a.pdf AI-Native Network Slicing for 6G Networks]," /IEEE Wireless Communications/, to appear, 2021. \[[doc/bib/WCM2021a.txt bib]]
+#
+#. *W. Wu*, M. Li, K. Qu, C. Zhou, X. Shen, and W. Zhuang, "Low-Latency Parallel Split Learning Design and Resource Management in Wireless Networks," manuscript, 2021. 
+#
+#. *W. Wu*, and X. Shen, "A Tale of Two Timescales: Joint Planning and Scheduling for Vehicular Network Slicing," manuscript, 2021. 
+#
+. \[JSAC\] *W. Wu*, N. Chen, C. Zhou, M. Li, X. Shen,  W. Zhuang, and X. Li, "[doc/journals/JSAC2020a.pdf Dynamic RAN Slicing for Service-Oriented Vehicular Networks via Constrained Learning]," /IEEE Journal on Selected Areas in Communications/, vol. 39 no. 7, pp. 2076–2089, July 2021. \[[doc/bib/JSAC2020a.txt bib]]
+#
+. \[TWC\] *W. Wu*, N. Cheng, N. Zhang, P. Yang, W. Zhuang, and X. Shen, "[doc/journals/TWC2019a.pdf Fast mmwave Beam Alignment via Correlated Bandit Learning]," /IEEE Transactions on Wireless Communications/, vol. 18, no. 12, pp. 5894-5908, Dec. 2019. \[[doc/bib/TWC2019a.txt bib]] 
+#
+. \[TII\] *W. Wu*,  P. Yang, W. Zhang, C. Zhou, and X. Shen, "[doc/journals/TII2020a.pdf Accuracy-Guaranteed Collaborative DNN Inference in Industrial IoT via Deep Reinforcement Learning]," /IEEE Transactions on Industrial Informatics/, vol. 17, no. 7, pp. 4988–4998, July 2021. \[[doc/bib/TII2020.txt bib]] 
+#
+. \[TVT\] *W. Wu*, N. Cheng, N. Zhang, P. Yang, K. Aldubaikhy, and X. Shen, "[doc/journals/TVT2020a.pdf Performance Analysis and Enhancement of Beamforming Training in 802.11ad]," /IEEE Transactions on Vehicular Technology/, vol. 69, no. 5,  pp. 5293-5306, May 2020.  \[[doc/bib/TVT2020a.txt bib]] 
+#
+. \[TVT\] *W. Wu*, N. Zhang, N. Cheng, Y. Tang, K. Aldubaikhy, and X. Shen, "[doc/journals/TVT2019a.pdf Beef up mmWave Dense Cellular Networks with D2D-Assisted Cooperative Edge Caching]," /IEEE Transactions on Vehicular Technology/, vol. 68, no. 4, pp. 3890-3904, Apr. 2019. \[[doc/bib/TVT2019a.txt bib]] 
+#
+#. \[TVT\] D. Han, W. Liao, H. Peng, H. Wu, *W. Wu*, and X. Shen, ``[https://ieeexplore.ieee.org/document/9664456 Edge Caching with Cooperative Multicast Beamforming in Integrated Satellite-Terrestrial Networks]," IEEE Transactions on Vehicular Technology, Doi: 10.1109/TVT.2021.3138898, 2021.
+#
+. \[TWC\] Z. Ma, *W. Wu*, M. Jian, F. Gao, and X. Shen, "[https://ieeexplore.ieee.org/document/9530373 Joint Constellation Design and Multiuser Detection for Grant-Free NOMA]," /IEEE Transactions on Wireless Communications/, Doi: 10.1109/TWC.2021.3108666, 2021. \[[doc/bib/ZheTWC2021.txt bib]] 
+#
+. \[JSAC\] W. Zhang, D. Yang, *W. Wu*, H. Peng, N. Zhang, H. Zhang, and X. Shen, "[https://ieeexplore.ieee.org/document/9562748  Optimizing Federated Learning in Distributed Industrial IoT: A Multi-Agent Approach]," /IEEE Journal on Selected Areas in Communications/, vol. 39, no. 12, pp. 3688-3703, Dec. 2021. \[[doc/bib/WeitingJSAC2021.txt bib]] 
+#
+. \[TWC\] C. Zhou, *W. Wu*, H. He, P. Yang, F. Lyu, N. Cheng, and X. Shen, "[doc/journals/ConghaoTWC2020a.pdf Deep Reinforcement Learning for Delay-Oriented IoT Task Scheduling in Space-Air-Ground Integrated Network]," /IEEE Transactions on Wireless Communications/, vol. 20, no. 2, pp. 911-925, Feb. 2021. \[[doc/bib/ConghaoTWC2020.txt bib]] 
+#
+. \[TWC\] K. Aldubaikhy, *W. Wu*, Q. Ye, and X. Shen, "[doc/journals/KhalidTWC2019a.pdf Low-Complexity User Selection Algorithm for Multiuser Transmission in mmWave WLANs]," /IEEE Transactions on Wireless Communications/, vol. 19, no. 4, pp. 2397-2410, Apr. 2020. \[[doc/bib/KhalidTWC2020.txt bib]] 
+#
+. \[WCM\] K. Aldubaikhy, *W. Wu*, N. Zhang, N. Cheng, and X. Shen, "[doc/journals/KhalidWCM2019a.pdf mmWave IEEE 802.11ay for 5G Fixed Wireless Access]," /IEEE Wireless Communications Magazine/, vol. 27, no. 2, pp. 88-85, Apr. 2020. \[[doc/bib/KhalidWCM2020.txt bib]] 
+#
+#. \[TII\] P. Yang, F. Lyu, *W. Wu*, N. Zhang, L. Yu, and X. Shen, "[doc/journals/PengTII2019a.pdf Edge Coordinated Query Configuration for Low-Latency and Accurate Video Analytics]," /IEEE Transactions on Industrial Informatics/, vol. 16, no. 7, pp. 4855-4864, Jul. 2020.  \[[doc/bib/PengTII2020.txt bib]] 
+#
+#. \[TVT\] Y. Tang, N. Cheng, *W. Wu*, Y. Dai, M. Wang, and X. Shen, "[doc/journals/YujieTVT2019a.pdf Delay-Minimization Routing for Heterogeneous VANETs with Machine Learning based Mobility Prediction]," /IEEE Transactions on Vehicular Technology/, vol. 68, no. 4, pp. 3967-3979, Apr. 2019. ({{<font color=red><b>}}One of Most Popular Articles in TVT {{</b></font>}})  \[[doc/bib/YujieTVT2019.txt bib]] 
+
+
+
+=== 会议论文
+. \[WiOpt\] *W. Wu*, Q. Shen, K. Aldubaikhy, N. Cheng, N. Zhang, and X. Shen, "[doc/conference/Wiopt2018a.pdf Enhance the edge with beamforming: Performance analysis of beamforming-enabled WLAN]," in /Proc. IEEE WiOpt Workshop/, Shanghai, China, 2018. \[[doc/bib/Wiopt2018.txt bib]] 
+#
+. \[ICC\] *W. Wu*, Q. Shen, M. Wang, and X. Shen, "[doc/conference/ICC2017a.pdf Performance Analysis of IEEE 802.11.ad Downlink Hybrid Beamforming]," in /Proc. IEEE ICC/, Paris, France, 2017. \[[doc/bib/ICC2017.txt bib]] 
+#
+. \[ICCCN\] *W. Wu*, X. Li, H. Yin, C. Zhang, and G. Wei, ``A Joint Real Grassmannian Quantization Strategy for MIMO Interference Alignment with Limited Feedback", in /Proc. IEEE ICCCN Workshop/, Shanghai, China, Aug. 4--7, 2014.
+#
+. \[ICC\] J. Chen, R. Ding, *W. Wu*, J. Liu, F. Gao, and X. Shen, “Multi-Agent Learning Based Packet Routing in Multi-Hop UAV Relay Network”, in /Proc. IEEE ICC/, Seoul, South Korea, 2022. 
+#
+#. \[Globecom\] C. Zhou, H. Wu, M. He, *W. Wu*, N. Cheng, and X. Shen, ``Adaptive Access Mode Selection in Space-Ground Integrated Vehicular Networks", in /Proc. IEEE  Globecom/, 2021.
+#
+#. \[Globecom\] Z. Mao, F. Hu, Q. Li, *W. Wu*, and X. Shen, “Joint Distributed Beamforming and Backscatter Cooperation for UAV-Assisted WPSNs”, in /Proc. IEEE  Globecom/, 2021.
+#
+#. \[MASS\] J. Lin, P. Yang, *W. Wu*, N. Zhang, T. Han, and L. Yu, "Edge Learning for Low-Latency Video Analytics: Query Scheduling and Resource Allocation", in /Proc. IEEE MASS/, 2021.
+#
+. \[ICC\] Z. Ma, *W. Wu*, F. Gao, and X. Shen, "[doc/conference/ZheICC2021a.pdf Multi-Task Learning Aided Joint Constellation Design and Multiuser Detection for GF-NOMA]",  IEEE International Conference on Communications," in /Proc. IEEE ICC/, Montreal, Canada, 2021. \[[doc/bib/ZheICC2021a.txt bib]]  
+#
+#. \[ICC\] W. Zhang, D. Yang, *W. Wu*, H. Peng, W. Quan, H. Zhang, and X. Shen, "[doc/conference/WeitingICC2021a.pdf Spectrum and computing resource management for federated learning in distributed industrial IoT]," in /Proc. IEEE ICC Workshop/, Montreal, Canada, 2021. \[[doc/bib/WeitingICC2021a.txt bib]] 
+#
+. \[Globecom\] C. Zhou, *W. Wu*, H. He, P. Yang, F. Lyu, N. Cheng, and X. Shen, "[doc/conference/ConghaoGlobalCom2019a.pdf Delay-aware IoT Task Scheduling in Space-air-ground Integrated Network]," in /Proc. of IEEE GLOBECOM/, Waikoloa, HI, USA, 2019. 
+#
+. \[Globecom\] K. Aldubaikhy, *W. Wu*, and X. Shen, "[doc/conference/KhalidGlobecom2018a.pdf BF-PDVG: Hybrid Beamforming and User Selection for UL MU-MIMO mmWave Systems]," in /Proc. IEEE Globecom Workshop/, Abu Dhabi, United Arab Emirates, 2018.  
+#
+#. \[ICC\] Y. Tang, P. Yang, *W. Wu*, J. W. Mark, and X. Shen, "[doc/conference/YujieICC2019a.pdf Cooperation-Based Interference Mitigation in Heterogeneous Cloud Radio Access Networks]," in /Proc. IEEE ICC/, Shanghai, China, 2019. 
+
+
+
+
+
+
+
+#== Volunteer
+#- Volunteer of IEEE Vehicular Technology Conference (VTC-Fall), Toronto, ON, Canada, 2017
+#- Volunteer for Asian Games, Guangzhou, China, 2010
+~~~
+{}{img_left}{./img/PCL_logo.png}{photo}{120px}{120px}{}
+\n
+
