@@ -1,0 +1,10 @@
+@article{han2021joint,
+  title={Joint Cache Placement and Cooperative Multicast Beamforming in Integrated Satellite-Terrestrial Networks},
+  author={Han, Dairu and Liao, Wenhe and Peng, Haixia and Wu, Huaqing and Wu, Wen and Shen, Xuemin},
+  journal={IEEE Transactions on Vehicular Technology},
+  volume={71},
+	number={3},
+	pages={3131–3143},
+	year={Mar. 2022},
+	publisher={IEEE}
+}

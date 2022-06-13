@@ -1,0 +1,10 @@
+@article{ma2021joint,
+  title={Joint Constellation Design and Multiuser Detection for Grant-Free {NOMA}},
+  author={Ma, Zhe and Wu, Wen and Jian, Mengnan and Gao, Feifei and Shen, Xuemin},
+  journal={IEEE Trans. Wireless Communi.},
+  volume={21},
+	number={3},
+	pages={1973–1988},
+	year={Mar. 2022},
+	publisher={IEEE}
+}

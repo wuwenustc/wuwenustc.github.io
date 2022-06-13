@@ -2,5 +2,8 @@
 	title={Holistic Network Virtualization and Pervasive Network Intelligence for {6G}},
 	author={Shen, Xuemin and Gao, Jie and Wu, Wen and Li, Mushu and Zhou, Conghao and Zhuang, Weihua},
 	journal={IEEE Commun. Surveys Tuts.},
-	year={to appear, 2021}
+	volume={24},
+	number={1},
+	pages={1--30},
+	year={1st. Quart. 2022}
 }
