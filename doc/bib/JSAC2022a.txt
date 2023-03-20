@@ -2,5 +2,8 @@
 	title={Split Learning over Wireless Networks: {Parallel} Design and Resource Management},
 	author={Wu, Wen and Li, Mushu and Qu, Kaige and Zhou, Conghao and Shen, Xuemin and Zhuang, Weihua and Li, Xu and Shi, Weisen},
 	journal={IEEE J. Sel. Areas Commun.},
-	year={to appear, 2022, DOI: 10.1109/JSAC.2023.3242704}
+	volume={41},
+	number={4},
+	pages={1051--1066},
+	year={Apr. 2023}
 }
