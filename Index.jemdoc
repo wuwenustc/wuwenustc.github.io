@@ -1,0 +1,231 @@
+# jemdoc: menu{MENU1}{index.html}
+
+= Wen Wu’s Homepage (吴稳)\n
+
+~~~
+{}{img_left}{./img/Wen_Wu.jpg}{photo}{180px}{180px}{}
+ \n
+Associate Researcher\n
+PhD Supervisor of PCL and SUSTech \n
+Director of [https://www.pcl.ac.cn/html/1008/ PCL INR Lab (智能网络基础研究室)] \n
+#[https://uwaterloo.ca/electrical-computer-engineering/ Department of Electrical and Computer Engineering] \n
+[https://www.pcl.ac.cn/ Peng Cheng Laboratory]\n
+Office: Room 1611, Building 1, PCL \n
+#Address: 2 Xingke No. 1 Street, Shenzhen, Guangdong, China \n
+Email: wuw02@pcl.ac.cn \n
+[https://scholar.google.ca/citations?user=TA8_qpgAAAAJ&hl=en Google Scholar] (5,000 citations, H-index: 31)\n
+[https://www.researchgate.net/profile/Wen-Wu-8 ResearchGate],
+[doc/CV_Wen_Wu.pdf Curriculum Vitae]  \n
+~~~
+
+== Welcome
+I am an Associate Researcher with the Frontier Research Center in the Peng Cheng Laboratory, Shenzhen, China, since 2021. I received the B.E., M.E., and Ph.D.  degrees in EE from South China University of Technology, Guangzhou, China in 2012, the University of Science and Technology of China, Hefei, China in 2015, and the University of Waterloo, Waterloo, Canada in 2019, respectively. I worked as a Postdoctoral Research Fellow in the ECE Department in the University of Waterloo from 2019 to 2021. My research interests include 6G networks, network intelligence, and network virtualization. \n
+
+
+
+#~~~
+#== *2025鹏城实验室和南方科技大学的博士生联合培养专项计划* 
+#- 招收类型：普博生1-2人
+#- 招生专业：计算机科学与技术(081200)
+#- 招生简章：https:\/\/yzw.pcl.ac.cn\/yzs_new\/zsxxxq\/index?id=6fb2847b1b2a4527953db2fed9298fe7&xxlm=00
+#- 截止时间：{{<font color=red><b>}}*12月6日*{{</b></font>}}
+#- 研究方向：边缘智能、边缘大模型、网络虚拟化
+#- 感兴趣的同学将个人简历、成绩单发送到邮箱
+#~~~
+
+#~~~
+#== *2025鹏城实验室和华南理工大学的博士生联合培养专项计划* 
+#- 招收类型：普博生1人，招生专业：电子信息（085400）
+#- 截止时间：2024年11月底
+#- 鹏城实验室：吴稳，华工导师：唐建华
+#- 研究方向：6G网络、网络虚拟化、网络智能
+#- 感兴趣的同学将个人简历、成绩单发送到邮箱
+#~~~
+
+~~~
+== 招聘和招生 
+#- Researcher Position: We are constantly looking for excellent Researchers ([doc/Faculty_Position.pdf PDF])\n
+- 博士后: 常年招收博士后，研究方向无线通信、网络智能、网络虚拟化，年薪50万人民币。详见[doc/Faculty_Position.pdf 智能网络基础研究室博士后招聘]; \n
+- 博士生: 团队每年招收鹏城实验室和北航、北邮、哈工大、南科大、华工等高校的联培博士生，详见[https://yzw.pcl.ac.cn/index 鹏城实验室招生网站]、[doc/PhD_student_position.pdf 智能网络基础研究室博士生招生简介]; \n
+- 访问学生: 招收访问博士生、访问硕士生，从事智能网络系统平台搭建、大模型构建等工作;\n
+- 联系方式：邮件发送简历、成绩单、代表性论文等相关材料至wuw02@pcl.ac.cn;
+~~~
+
+
+
+~~~
+== Recent News
+- \[2025.7\] Paper ``Split-LEO: Efficient AI Model Training over LEO Satellite Networks" is accepted to SCIENCE CHINA Information Sciences (CCF A).
+
+- \[2025.6\] Paper ``AI-assisted Network-slicing based Next-generation Wireless Networks" received prestigious *IEEE Vehicular Technology Society OJVT Best Paper Award* (only 1 per year). 
+
+- \[2025.6\] Paper ``Split Fine-Tuning for Large Language Models in Wireless Networks" is accepted to IEEE Journal of Selected Topics in Signal Processing (IF: 13.7). Congratulations to Songge. 
+
+- \[2025.5\] Paper ``LLM-Empowered IoT for 6G Networks: Architecture, Challenges, and Solutions" is accepted to IEEE Internet of Things Magazine. Congratulations to Xiaopei. 
+
+- \[2025.5\] Paper ``Efficient Model Training in Edge Networks with Hierarchical Split Learning" is accepted to IEEE TMC (CCF A). Congratulations to Songge. 
+
+- \[2025.4\] Paper ``VimGeo: Efficient Cross-View Geo-Localization with Vision Mamba Architecture" is accepted to IJCAI 2025 (CCF A). Congratulations to Jinglin. 
+
+- \[2025.4\] Paper ``Split Knowledge Distillation for Large Models in IoT: Architecture, Challenges, and Solutions" is accepted to IEEE Internet of Things Magazine. Congratulations to Zuguang \[[https://arxiv.org/pdf/2501.17164 pdf]]. 
+
+- \[2025.3\] Paper ``面向低空智联网的智能资源管理关键技术" is accepted to 人工智能. Congratulations to Xiang. 
+
+- \[2025.2\] Papers ``Data Enhanced Edge Incremental Learning and Resource Allocation over Wireless Network” and ``Memory-Efficient Split Federated Learning for LLM Fine-Tuning on Heterogeneous Mobile Devices" are accepted to IEEE INFOCOM 2025 Workshop. Congratulations to Jiayi and Xiaopei. 
+
+- \[2025.2\] Paper ``WiLLGlass: An Open-Source LLM-Powered Smart Glasses Platform over Wireless Networks” is accepted to IEEE INFOCOM 2025 Demo. Congratulations to Boyi and Yongguang. 
+
+- \[2025.1\] Papers ``Edge-Assisted Accelerated Cooperative Sensing for CAVs: Task Placement and Resource Allocation” and ``RingAda: Pipelining Large Model Fine-Tuning on Edge Devices with Scheduled Layer Unfreezing” are accepted to IEEE ICC 2025. Congratulations to Yuxuan and Liang. 
+
+#- \[2025.1\]  Invited to serve as the Workshop TPC Co-Chair of the IEEE VTC-Spring 2025 Workshop on Advanced Digital Twin and Pervasive Intelligence Integration for Next-Gen Vehicular Networks. *Submission deadline: February 27, 2025*.  \[[https://icons-research-group.github.io/ADT-NGVNet/ Call for Papers]]. Please consider submitting your work! 
+
+- \[2025.1\] Paper ``Energy-Efficient Split Learning for Fine-Tuning Large Language Models in Edge Networks” is accepted to IEEE Networking Letter. Congratulations to Zuguang. \[[https://arxiv.org/pdf/2412.00090 PDF]].
+
+#- \[2024.12\] Invited to serve as the Track Co-Chair of the IEEE VTC-Fall 2025 track on Emerging technologies, 6G and beyond. *Submission deadline: Mar. 15, 2025*.  \[[https://events.vtsociety.org/vtc2025-fall/authors/call-for-papers-2/ Call for Papers]]. Please consider submitting your work!
+
+#- \[2024.11\] Invited to serve as the Lead TPC Chair of the IEEE INFOCOM 2025 PerAI-6G Workshop, which is the fourth concecutive workshop. *Submission deadline: Jan. 4, 2025*. 
+
+#- \[2024.10\] Paper ``PTAS: PIFO-based Time-aware Shaper for Massive Concurrent Flows in Time-sensitive Networks” is accepted to IEEE TNSE. Congratulations to Jie Ren. 
+
+#- \[2024.09\] Paper ``Mobility-Aware Federated Learning: Multi-armed Bandit Based Selection in Vehicular Network” is accepted to IEEE Globecom 2024 Workshop. Congratulations to Haoyu. 
+
+#- \[2024.09\] Paper ``SplitLLM: Hierarchical Split Learning Scheme for Large Model over Wireless Network” is accepted to IEEE Globecom 2024 Workshop. Congratulations to Songge. 
+
+#- \[2024.08\] Paper ``Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection” received the *USENIX Security 2024 Distinguished Paper Award*. Congratulations to Shaofeng. 
+
+#- \[2024.08\] Invited to serve as the Guest Editor of the IEEE Networking Letter special issue on Generative AI and Large Language Models-enabled Edge Intelligence \[[https://www.comsoc.org/publications/journals/ieee-lnet/cfp/generative-ai-and-large-language-models-enabled-edge Call for Papers]].
+
+#- \[2024.07\] Paper ``Joint Slice Switching and Resource Allocation for Energy-Eﬀicient Network Slicing” is accepted to IEEE Globecom 2024. Congratulations to Keyuan. 
+
+#- \[2024.05\] Invited to serve as the Lead Workshop TPC Chair of IEEE Globecom 2024. Workshop: Ubiquitous Network Intelligence for Next Generation Wireless Networks. \[[https://globecom2024.ieee-globecom.org/workshop/ws-27-workshop-ubiquitous-network-intelligence-next-generation-wireless-networks Call for paper]].  
+
+#- \[2024.05\] Paper ``Digital Twin Assisted Cross-Layer Resource Scheduling in ORAN System” is accepted to IEEE ICDCS 2024. Congratulations to Yongguang. 
+
+#- \[2024.04\] Book ``Backdoor Attacks against Deep Learning Based Sensing Algorithms” is published by Springer Verlag. Congratulations to Shaofeng. 
+
+#- \[2024.04\] Book ``MAC Protocol Design for Full-duplex Enabled Wireless Networks” is published by Springer Verlag. Congratulations to Shengbo. 
+
+#- \[2024.04\] Invited to serve as the Workshop TPC Co-chair of the IEEE/CIC ICCC 2024 Workshop: Digital Twins and Pervasive Intelligence Synergy in Next-Gen 6G Networks (DTPI-6G) \[[https://iccc2024.ieee-iccc.org/workshop/digital-twins-and-pervasive-intelligence-synergy-next-gen-6g-networks-dtpi-6g Call for Papers]]  
+
+#- \[2024.03\] Invited to serve as the Track Co-chair of the 100th VTC, VTC-Fall 2024. Track: Spectrum Management, Spectrum Sharing and Green Communications \[[https://events.vtsociety.org/vtc2024-fall/authors/call-for-papers-2/ Call for Papers]].
+
+#- \[2024.03\] Paper ``[https://arxiv.org/abs/2403.05158 Adaptive Split Learning and Resource Allocation over Energy-Constrained Wireless Edge Networks]” is accepted to IEEE INFOCOM 2024 Workshop. Congratulations to Zuguang. 
+
+#- \[2024.01\] Paper “[doc/conference/Shengbo_ICC24.pdf Digital Twin-Assisted Adaptive Preloading for Short Video Streaming]” is accepted to IEEE ICC 2024. Congratulations to Shengbo. 
+~~~
+
+
+
+
+#~~~
+#/{{<font color=red>}} *2024南方科技大学联培博士生招生（春季）： 欢迎各位刚兴趣的同学报名，邮件将个人简历、成绩单发送到wuw02@pcl.ac.cn* {{</font>}}/\n 
+#- 招生简章： https://gs.sustech.edu.cn/\#/admission/detail?current_child_id=86&id=96&article_id=3159，截止时间：11月13日
+#- 招收类型：普博
+#- 鹏城实验室、高校导师：吴稳
+#~~~
+
+#~~~
+#/{{<font color=red>}} *2024北京邮电大学联培博士生招生* {{</font>}}/\n 
+#- [https://mp.weixin.qq.com/s/Lb81RE24oE2GKLOE-t5cqg 招生简章]，截止时间：11月10日
+#- 招收类型：硕博连读
+#- 鹏城实验室导师：吴稳
+#- 高校导师：[https://kyy.bupt.edu.cn/info/1140/3428.htm 王莹]
+#~~~
+
+#~~~
+#/{{<font color=red>}} *2024西安电子科技大学联培博士招生* {{</font>}}/\n 
+#- [https://mp.weixin.qq.com/s/UCtgU5k7YRV3JWm4kBVERQ 招生简章]，截止时间：11月10日
+#- 招收类型：硕博连读
+#- 鹏城实验室导师：吴稳 
+#- 高校导师：[https://web.xidian.edu.cn/nancheng/ 承楠]
+#~~~
+
+
+
+
+
+
+
+
+#- /{{<font color=red>}} 2023年鹏城实验室和中山大学联培博士生 {{</font>}}/: 研究方向包括6G网络、全网虚拟化、泛在网络智能，感兴趣的学生请把简历发给我(wuw02@pcl.ac.cn)和[https://cse.sysu.edu.cn/content/5224  陈林教授](chenlin69@mail.sysu.edu.cn),截止申请时间：11月14日。\[[https://mp.weixin.qq.com/s/6IflADYOQwYWRdgcFa1Fqg 招生简章]] \n
+
+#- /{{<font color=red>}} 2023年鹏城实验室和华南理工大学联培博士生{{</font>}}/: 研究方向包括6G网络、全网虚拟化、泛在网络智能，感兴趣的学生请把简历发给我(wuw02@pcl.ac.cn)和[https://www2.scut.edu.cn/microelectronics/2020/0910/c25586a439767/page.htm  郑倍雄教授] (bxzheng@scut.edu.cn),截止申请时间：11月22日。\[[https://mp.weixin.qq.com/s/VT5TRg7kzKhIDVleCVz0nQ 招生简章]]
+#~~~
+
+
+
+
+
+
+== Employment
+- Associate Researcher, since Nov. 2021\n
+[https://bbcr-inr.github.io/ INR Lab (鹏城实验室智能网络基础研究室)], Peng Cheng Laboratory, Shenzhen, China \n
+
+- Post-Doctoral Research Fellow, Oct. 2019 - Aug. 2021 \n
+Department of Electrical and Computer Engineering, University of Waterloo, Waterloo, Canada \n
+Supervisor: [https://uwaterloo.ca/scholar/sshen Prof. Xuemin (Sherman) Shen]\n
+
+
+
+== Education
+- Doctor of Philosophy, Department of Electrical and Computer Engineering, 2015 - 2019 \n
+[https://uwaterloo.ca/broadband-communications-research-lab/  Broadband Communications Research (BBCR) Lab], University of Waterloo, Waterloo, Canada.\n 
+Supervisor: [https://uwaterloo.ca/scholar/sshen Prof. Xuemin (Sherman) Shen]\n
+
+Thesis: [doc/Wen_Wu_thesis.pdf Design and Analysis of Beamforming in mmWave Networks] \n
+
+- Master of Engineering, Communication and Information Systems, 2012 - 2015\n
+ University of Science and Technology of China, Hefei, China \n
+Supervisor:  [http://eeis.ustc.edu.cn/2010/0825/c2648a19475/page.htm Prof. Guo Wei]\n
+Thesis: Interference Alignment with Limited Feedback for Multiuser Interference Networks\n
+
+- Bachelor of Engineering, Information Engineering, 2008-2012\n
+South China University of Technology, Guangzhou, China \n
+Final Year Project: Performance Analysis of Monobit Digital Receivers in UWB Communication Systems \n
+
+== Research Interests  
+
+#- Network virtualization
+- Network AI: LLM for networking, split learning, deep reinforcement learning
+- Network virtualization: digital twin, network slicing 
+
+== Award and Recognition
+- IEEE Vehicular Technology Society OJVT Best Paper Award (only 1 each year), 2025
+- World’s Top 2\% Scientists, Stanford University, 2023-2024
+- Distinguished Paper Award, USENIX Security (CCF A), 2024
+- Excellent Young Scholar Award (国家级青年人才), Ministry of Science and Technology of China, 2023
+- VANET Algorithm Simulation Competition Third-Price Award (Supervisor), China Institute of Communications, 2023 
+- Young Elite Scientist, China Association of Science and Technology in Communication Society, 2023
+- Student Project Competition Runner-Up Award (Supervisor), IEEE Comsoc, 2023
+- Award for Excellence (Early Career Researcher), IEEE Hyper-Intelligence Technical Committee, 2022 (only 5 each year)
+- Best Paper Award, IEEE/CIC ICCC, 2022 (1st author)
+- Senior Member, IEEE, 2022
+- Senior Member, China Institute of Communications, 2022
+- Distinguished Researcher (Level-C), Peng Cheng Laboratory, 2022
+- Faculty of Engineering Graduate Scholarship Award, University of Waterloo, 2019
+- Graduate Scholarship, University of Waterloo, 2015-2019
+- International Doctoral Student Award, University of Waterloo, 2015-2019
+- Best Speaker Award, ECE Graduate Seminar Series, University of Waterloo, 2015
+- Guorui Scholarship, China Electronics Technology Corporation 14th Research Institute, 2014
+
+== Research Grants
+- PI, Distributed Collaborative Technology for Large Models in Edge Network, PCL, 2M RMB, 2025.5-2028.5
+- PI, Large Model for Communication Signal Classification, 3M RMB, 2024.10-2025.12
+- PI, Holistic Network Virtualization, Ministry of Science and Technology, 2.5M RMB, 2024.1-2026.12
+- PI, Holistic Network Virtualization for 6G Networks, China Association of Science and Technology, 2023QNRC001, 300K RMB, 2023-2025
+- PI, Service-Oriented Network Slicing for Vehicular Networks, NSFC, 62201311, 300K RMB, 2023.1-2025.12
+- PI, Artificial General Intelligence for 6G Networks, PCL, 1.7M RMB, 2023.6-2025.6
+- Co-PI, Fundamental Research for Intelligent Networks, PCL, 2021-2024
+- Participant, Intelligent Routing Theory and Device Design, Ministry of Science and Technology of China, 2019-2022
+- Participant (Rank 4/7), Proactive User-Centric Networking for Next Generation Wireless Communications, Natural Sciences and Engineering Research Council of Canada (NSERC), 600K CAD, 2019-2022
+- Participant (Rank 2/10), High Eﬀiciency Wireless LAN MAC Layer Design, Natural Sciences and Engineering Research Council of Canada (NSERC), 300K CAD, 2015-2017
+
+
+
+#- Proactive User-centric Networking for Next Generation Wireless Communications, Natural Sciences and Engineering Research Council of Canada (NSERC), 300K CAD, Participant (Rank 2/10), 2019-2022
+#- High Efficiency Wireless LAN MAC Layer Design, Natural Sciences and Engineering Research Council of Canada (NSERC), 300K CAD, Participant (Rank 4/7), 2015-2017
+
+
+~~~
+{}{img_left}{./img/PCL_logo.png}{alt text}{150px}{150px}{}
+~~~
