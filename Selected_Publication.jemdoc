@@ -1,0 +1,129 @@
+# jemdoc: menu{MENU1}{Selected_Publication.html}
+
+= Selected Publications (\# marks the corresponding author)\n
+
+Note that the full list can be found in \[[Publication.html here]]. *IEEE Copyright*: Personal use of the materials is permitted, but republication/redistribution requires [http://www.ieee.org/publications_standards/publications/rights/index.html IEEE permission].  \n
+
+
+== Books
+. *W. Wu*, S. Zhang, P. Dong, and X. Shen (authors), “Collaborative Edge AI over 6G Networks,” Springer Verlag, proposal approved, 2026. 
+
+. P. Yang, *W. Wu*, N. Zhang, and X. Shen (authors), “Millimeter-Wave Networks: Beamforming Design and Performance Analysis,” Springer Verlag, 2021. (ISBN-10: 3030886298, ISBN-13: 9783030886295)  \[[doc/Book_mmWave.pdf pdf]]
+
+. *W. Wu*, Y. Tang, P. Yang, W. Zhang, and N. Zhang,  “Collaborative Deep Neural Network Inference via Mobile Edge Computing,” /Broadband Communications, Computing, and Control for Ubiquitous Intelligence/, pp. 263-190. Editors: L. Cai, B. L. Mark, and J. Pan, Springer, 2022. \[[doc/BC_DNN_inference.pdf pdf]]
+
+
+== Journal 
+. \[arXiv\]  M. Guo, *W. Wu*\#, Y. Wang, and S. Zhang, “Large-Small Model Collaboration for LEO Satellite Networks: An Agentic AI Approach,” /IEEE Transactions on Cognitive Communications and Networking/, submission.
+
+. \[arXiv\]  J. Cong, *W. Wu*\#, C. You, J. Huang, and K. Shang, “Transformer-Enhanced DRL for Resource Management in Low-Altitude Surveillance Network,” /IEEE Transactions on Cybernetics/, submission.
+
+. \[arXiv\] Y. Wang, *W. Wu*\#, K. Qu, and X. Shen, “Edge-Accelerated Cooperative Sensing over CAV Networks: A Transformer-Based RL Approach,” /IEEE Transactions on Mobile Computing/, submission. 
+
+. \[arXiv\] S. Zhang, *W. Wu*\#, L. Li, Y. Wang, and X. Shen, “Communication-Efficient Collaborative LLM Inference over LEO Satellite Networks,” /IEEE Journal on Selected Areas in Communications/, submission, 2025. 
+
+. \[arXiv\] Z. Li, *W. Wu*\#, S. Wu, and X. Shen, “Fast AI Model Partition for Split Learning over Edge Networks,” /IEEE Transactions on Mobile Computing/, under revision, 2025. #(CCF A, 中科院1区Top)
+
+. \[arXiv\] Z. Mao, *W. Wu*\#, and X. Shen, “Learning-Based Radio Resource Management and Bitrate Adaptation for Multi-UAV Video Streaming over Low-Altitude Wireless Networks,” /IEEE Journal of Selected Topics in Signal Processing/, under revision, 2025. #(中科院1区Top)
+
+. \[arXiv\]  K. Shang, *W. Wu*\#, J. Tang, Z. Mao, and X. Shen, “Energy-Efficient RAN Slicing via Parameterized Deep Reinforcement Learning,” /IEEE Transactions on Cognitive Communications and Networking/, major revision, 2025. #(中科院1区Top)
+
+. \[arXiv\] J. Cong, *W. Wu*\#, C. You, J. Huang, and Z. Mao, “Data Generation for Heterogeneous Federated Learning in Wireless Networks via Diffusion Model,” /IEEE Transactions on Network Science and Engineering/, revision, 2026. #(中科院2区)
+
+. \[arXiv\]  B. Liu, Q. Zhang, Y. Lu, J. Jiao, C. Jagmohan, *W. Wu*, J. Zhang, and K. Dimitrios, “MobileROS: A Wireless-Native Robot Operating System for Mobile Robotics,” /IEEE Transactions on Robotics/, conditionaly accepted. #(CCF A, 中科院1区Top)
+
+. \[TWC\] W. Jiang, B. Ai, *W. Wu*\#, L. Qian, and L. Liu, “Energy-Efficient Aerial IRS Configuration and Resource Allocation in AoI-Aware MEC,” /IEEE Transactions on Wireless Communications/, to appear. \[[https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11399643 pdf]] （中科院1区Top）
+
+
+. \[TMC\] H. Tu, *W. Wu*\#, L. Chen, L. Li, X. Chen, and X. Shen, “FL in Motion: Accelerating FL via Mobility-Aware Vehicle Selection and Sparse Training,” /IEEE Transactions on Mobile Computing/, to appear.  \[[https://ieeexplore.ieee.org/abstract/document/11355848 pdf]]（CCF A，中科院1区Top）
+
+
+. \[Network\] *W. Wu*, X. Huang, M. Qin, Q. Li, N. Cheng, and T. H. Luan, “AI-Native Network Digital Twin for Intelligent Network Management in 6G,” /IEEE Network/, to appear. \[[https://ieeexplore.ieee.org/document/11244812/ pdf]] （中科院2区）
+
+. \[COMNET’26\] H. Tu, *W. Wu*\#, L. Li, Y. Lu, L. Chen, and X. Chen, “V-FedMM: Dynamic Sample Selection for Efficient Multimodal Federated Learning over Vehicular Networks,” /Computer Networks (Elsevier)/, to appear. \[[https://www.sciencedirect.com/science/article/pii/S1389128626000320 pdf]] （CCF B）
+
+. \[TCCN’26\] L. Li, *W. Wu*\#, S. Fang, S. Wang, and C. Yin, “Wider Eyes in the Sky: Scene-Adaptive Video Analytics in Low-Altitude Surveillance Networks,” /IEEE Transactions on Cognitive Communications and Networking/, vol. 12, pp. 4624 - 4639, 2026. \[[https://ieeexplore.ieee.org/document/11282453 pdf]] （中科院1区Top）
+
+. \[TNSE’26\] X. Cheng, *W. Wu*\#, Y. Wang, Z. Mao, Y. Lu, and P. Dong, “Dependency-Aware CAV Task Scheduling via Diffusion-Based Reinforcement Learning,” /IEEE Transactions on Network Science and Engineering/, vol. 13, pp. 4797 - 4814, 2026. \[[https://ieeexplore.ieee.org/document/11265722/ pdf]] （中科院2区）
+
+
+. \[IoTJ’25\] X. Chen, *W. Wu*\#, F. Ji, Y. Lu, and L. Li, “Privacy-Aware SFL for Resource-Efficient LLM Fine-Tuning over IoT Devices,” /IEEE Internet of Things Journal/, vol. 12, no. 24, pp. 51902 - 51913, Dec. 2025. \[[https://ieeexplore.ieee.org/abstract/document/11130508 pdf]] （中科院2区Top）
+
+. \[JSTSP’25\] L. Li, X. Yang, *W. Wu*\#, H. Wang, T. Ohtsuki, M. Pan, and X. Shen, “MobiLLM: Enabling On-Device Fine-Tuning of Billion-Sized LLMs via Server-Assisted Side-Tuning,” /IEEE Journal of Selected Topics in Signal Processing/, vol. 19, no. 7 pp. 1251 - 1265, 2025.  \[[https://ieeexplore.ieee.org/abstract/document/11250600 pdf]]（中科院1区Top）
+
+. \[JSTSP’25\] S. Zhang, G. Cheng, *W. Wu*\#, X. Huang, L. Song, and X. Shen, “Split Fine-Tuning for Large Language Models in Wireless Networks,” /IEEE Journal of Selected Topics in Signal Processing/, vol. 19, no. 7, pp. 1376 - 1391, Oct. 2025. \[[https://ieeexplore.ieee.org/document/11045165 pdf]]（中科院1区Top）
+
+. \[SCIS'25\] *W. Wu*, and X. Huang, “Split-LEO: Efficient AI Model Training over LEO Satellite Networks,” /SCIENCE CHINA Information Sciences/, vo. 68, no. 190305, 2025. \[[https://link.springer.com/article/10.1007/s11432-024-4523-1 pdf]]（CCF A, 中科院1区Top）
+
+
+. \[IoTM’25\] X. Chen, *W. Wu*\#, L. Li and F. Ji, “LLM-Empowered IoT for 6G Networks: Architecture, Challenges, and Solutions,” /IEEE Internet of Things Magazine/, vol. 8, no. 6,
+pp. 34-41, Nov. 2025. \[[https://ieeexplore.ieee.org/abstract/document/11060574 pdf]]
+
+. \[TMC’25\] S. Zhang, *W. Wu*\#, L. Song, and X. Shen, “Efficient Model Training in Edge Networks with Hierarchical Split Learning,” /IEEE Transactions on Mobile Computing/, vol. 24, no. 10, pp. 10214 - 10229, Oct. 2025. \[[https://ieeexplore.ieee.org/abstract/document/11002518/ pdf]] （CCF A, 中科院1区Top）
+
+. \[IoTM’25\] Z. Li, S. Wu, *W. Wu*\#, Q. Lin, Y. Sun, and H. Wang, “Split Knowledge Distillation for Large Models in IoT: Architecture, Challenges, and Solutions,” /IEEE Internet of Things Magazine/, vol. 8, no. 5, pp. 16 - 23, Sep. 2025. \[[https://ieeexplore.ieee.org/abstract/document/11025156 pdf]]
+
+. \[TWC'24\] K. Qu, W. Zhuang, Q. Ye, *W. Wu*\#, and X. Shen, “Model-Assisted Learning for Adaptive Cooperative Perception of Connected Autonomous Vehicles,” /IEEE Transactions on Wireless Communications/, vol. 23, no. 8, pp. 8820-8835, Aug. 2024.   \[[https://arxiv.org/pdf/2401.10156  pdf]] （中科院1区Top）
+
+
+. \[JSTSP'24\] X. Huang, *W. Wu*, S. Hu, M. Li, C. Zhou, and X. Shen, “Digital Twin Based User-Centric Resource Management for Multicast Short Video Streaming”, /IEEE Journal of Selected Topics in Signal Processing/, vol. 18, no. 1, pp. 50-65, Jan. 2024.  \[[https://arxiv.org/pdf/2308.08995 pdf]] （中科院1区）
+
+
+.  \[JSAC'23\] *W. Wu*,  M. Li, K. Qu, C. Zhou, X. Shen, W. Zhuang, X. Li, and  W. Shi, ”Split Learning over Wireless Networks: Parallel Design and Resource Management,” /IEEE Journal on Selected Areas in Communications/, vol. 41, no. 4, pp. 1051-1066, Apr. 2023.   \[[doc/journals/SL_paper.pdf pdf]] （CCF A, 中科院1区Top, *ESI Highly Cited Paper*）
+
+. \[IoTJ'23\] K. Qu, W. Zhuang, *W. Wu*\#, M. Li, X. Shen, X. Li, and W. Shi, “Stochastic Cumulative DNN Inference with RL-Aided Adaptive IoT Device-Edge Collaboration,” /IEEE Internet of Things Journal/,  vol. 10, no. 20, pp. 18000 - 18015, Oct. 2023.  \[[doc/journals/Kaige_journal.pdf pdf]] （中科院1区）
+
+
+.  \[WCM'22\] *W. Wu*, C. Zhou, M. Li, H. Wu, H. Zhou, N. Zhang, X. Shen, and W. Zhuang, “AI-Native Network Slicing for 6G Networks,” /IEEE Wireless Communications/, vol. 29, no. 1, pp. 96–103, Feb. 2022.  \[[doc/journals/WC2021a.pdf pdf]] （中科院1区, *ESI Highly Cited Paper*）
+
+. \[COMST'22\] X. Shen, J. Gao, *W. Wu*,  M. Li, C. Zhou, and W. Zhuang, “Holistic Network Virtualization and Pervasive Network Intelligence for 6G,” /IEEE Communications Surveys and Tutorials/, vol. 24, no. 1, pp. 1-30, 1st. Quart. 2022.   \[[doc/journals/COMST2021.pdf pdf]]  （中科院1区Top, *Editor-in-Chief Invited Paper, Cover Paper, ESI Highly Cited Paper*）
+
+
+. \[TII'21\] *W. Wu*,  P. Yang, W. Zhang, C. Zhou, and X. Shen, “Accuracy-Guaranteed Collaborative DNN Inference in Industrial IoT via Deep Reinforcement Learning,” /IEEE Transactions on Industrial Informatics/, vol. 17, no. 7, pp. 4988–4998, July 2021.  \[[doc/journals/TII2020a.pdf pdf]]  （中科院1区）
+
+
+.  \[JSAC'21\] *W. Wu*, N. Chen, C. Zhou, M. Li, X. Shen,  W. Zhuang, and X. Li, “Dynamic RAN Slicing for Service-Oriented Vehicular Networks via Constrained Learning,” /IEEE Journal on Selected Areas in Communications/, vol. 39 no. 7, pp. 2076–2089, July 2021. \[[doc/journals/JSAC2020a.pdf pdf]]（CCF A, 中科院1区Top）
+
+
+. \[TWC'21\] C. Zhou, *W. Wu*, H. He, P. Yang, F. Lyu, N. Cheng, and X. Shen, “Deep Reinforcement Learning for Delay-Oriented IoT Task Scheduling in Space-Air-Ground Integrated Network,” /IEEE Transactions on Wireless Communications/, vol. 20, no. 2, pp. 911-925, Feb. 2021.  \[[doc/journals/ConghaoTWC2020a.pdf  pdf]]  （中科院1区Top, *ESI Highly Cited Paper*）
+
+. \[OJVT'20\] X. Shen, J. Gao, *W. Wu*, K. Lyu, M. Li, W. Zhuang, X. Li, and J. Rao, “AI-assisted Network-slicing based Next-generation Wireless Networks,” /IEEE Open Journal of Vehicular Technology/, vol. 1, no. 1, pp. 45-66, Jan. 2020. \[[doc/journals/OJVT2020a.pdf pdf]]  （中科院2区, Editor-in-Chief Invited Paper, *IEEE Vehicular Technology Society OJVT Best Paper Award*）
+
+
+.  \[TVT'20\]  *W. Wu*, N. Cheng, N. Zhang, P. Yang, K. Aldubaikhy, and X. Shen, “Performance Analysis and Enhancement of Beamforming Training in 802.11ad,” /IEEE Transactions on Vehicular Technology/, vol. 69, no. 5,  pp. 5293-5306, May 2020.   \[[doc/journals/TVT2020a.pdf pdf]]  （中科院2区）
+
+.  \[TWC'19\] *W. Wu*, N. Cheng, N. Zhang, P. Yang, W. Zhuang, and X. Shen, “Fast mmwave Beam Alignment via Correlated Bandit Learning,” /IEEE Transactions on Wireless Communications/, vol. 18, no. 12, pp. 5894-5908, Dec. 2019.  \[[doc/journals/TWC2019a.pdf pdf]] （中科院1区Top）
+
+
+. \[TVT'19\] *W. Wu*, N. Zhang, N. Cheng, Y. Tang, K. Aldubaikhy, and X. Shen, “Beef up mmWave Dense Cellular Networks with D2D-Assisted Cooperative Edge Caching,” /IEEE Transactions on Vehicular Technology/, vol. 68, no. 4, pp. 3890-3904, Apr. 2019. \[[doc/journals/TVT2019a.pdf pdf]] （中科院2区）
+
+
+=== Conference 
+. \[ICCT'25\] K. Shang, *W. Wu*\#, J. Tang, J. Cong, Z. Mao, and X. Shen, “Adaptive RAN Slicing for Diffusion-based AIGC Services in Mobile Edge Networks,” in /Proc. IEEE ICCT/, Shenyang, China, Oct. 16-18, 2025. ({{<font color=black><b>}}Best Student Paper Award {{</b></font>}}) 
+
+. \[Mobicom Workshop'25\] L. Li, and *W. Wu*\#, “Memory-Efficient LLM Fine-Tuning on the Mobile Device via Server Assisted Side Tuning,” in /Proc. ACM Mobicom Workshop/, Hong Kong, Nov. 4-8, 2025. \[[https://dl.acm.org/doi/abs/10.1145/3737902.3768351  pdf]] ({{<font color=black><b>}}Mobicom Workshop Best Paper Award {{</b></font>}}) 
+
+. \[ICDCS'24\]  Y. Lu and *W. Wu*\#, “Digital Twin Assisted Cross-Layer Resource Scheduling in ORAN System,” in /Proc. IEEE ICDCS/ PhD Student Symposium, New Jersey, USA, July 23-26, 2024.    \[[https://ieeexplore.ieee.org/abstract/document/10630972  pdf]] （CCF B）
+
+. \[USENIX Security'24\] S. Li, X. Wang, M. Xue, H. Zhu, Z. Zhang, Y. Gao, *W. Wu*, and X. Shen, “Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection,” in /Proc. USENIX Security (Security)/, Philadelphia, USA, August 14–16, 2024. \[[https://www.usenix.org/system/files/sec24summer-prepub-743-li.pdf pdf]] （CCF A, {{<font color=black><b>}}Distinguished Paper Award {{</b></font>}}）
+
+
+. \[ICDCS'23\]  X. Huang, *W. Wu*\#, and X. Shen, “Digital Twin-Assisted Resource Demand Prediction for Multicast Short Video Streaming,” in /Proc.  IEEE International Conference on Distributed Computing Systems (ICDCS)/ PhD Student Symposium, Hong Kong, China, July 18-21,  2023.   \[[https://arxiv.org/pdf/2306.05946  pdf]] （CCF B）
+
+. \[ICDCS'23\] S. Zhang, *W. Wu*\#, P. Hu, S. Li, and N. Zhang, “Split Federated Learning: Speed up Model Training in Resource-Limited Wireless Networks,” in /Proc.  IEEE International Conference on Distributed Computing Systems (ICDCS)/ PhD Student Symposium, Hong Kong, China, July 18-21,  2023.   \[[https://arxiv.org/pdf/2305.18889 pdf]] （CCF B）
+
+	
+. \[ICCC'22\] *W. Wu*, K. Qu, P. Yang, N. Zhang, X. Shen, and W. Zhuang, “Cost-Effective Two-Stage Network Slicing for Edge-Cloud Orchestrated Vehicular Networks,” in /Proc. IEEE\/CIC International Conference on Communications in China (ICCC)/, Foshan, China, 2022. \[[doc/conference/WEN_ICCC2022.pdf pdf]] ({{<font color=black><b>}}Best Paper Award {{</b></font>}}) 
+
+== Patents
+
+. \[US Patent\] X. Shen, *W. Wu*, M. Li, K. Qu, C. Zhou, W. Zhuang, and X. Li, “Systems and Methods for Cluster-Based Parallel Split Learning”. United States, App. 18,884,763, 2024\/09\/13. Patent Status: Granted\/Issued. Year Issued: 2025\/01\/02. \[[https://www.freepatentsonline.com/y2025/0007781.html  pdf]]
+
+
+
+
+
+
+
+
+
